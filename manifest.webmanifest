@@ -1,0 +1,10 @@
+{
+  "name": "Lý Tưởng Sống",
+  "short_name": "Lý Tưởng Sống",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#222222",
+  "lang": "vi",
+  "description": "Ứng dụng giúp bạn sống có mục tiêu và có ý nghĩa."
+}
